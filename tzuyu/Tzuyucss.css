@@ -1,0 +1,51 @@
+
+.parent{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+   
+}
+.Nayeonimg{
+    object-fit: contain;
+    display: flex; 
+    background-color: white; 
+    border: 5px black;
+    height: 75%;
+    max-width: 40%;
+    
+}
+.BGNcolor{
+    display: flex;
+    flex-direction: column;
+    height: 75%;
+    max-width: 539.39px;
+    width: 100%;
+    background-color: #F9CBB4;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+}
+.scroll{
+    height: 70%;
+    width: 80%;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+background-color: #ca7561;
+color: #ca7561;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #833245;
+    font-family: 'Times New Roman', Times, serif;
+}
+
